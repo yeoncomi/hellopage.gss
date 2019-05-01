@@ -17,7 +17,7 @@ container
 }
 
 .container {
-  background: url("../img/google.png");
+  background: url("../img/gss.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -45,6 +45,7 @@ container
   transform: scale(1);
   -webkit-transition: transform .5s ease, opacity 1.3s ease;
   transition: transform .5s ease, opacity 1.3s ease;
+  margin: auto;
 }
 
 .container .overlay {
@@ -97,7 +98,7 @@ container2
 }
 
 .container2 {
-  background: url("../img/facebook.png");
+  background: url("../img/nextcloud.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -177,7 +178,7 @@ container3
 }
 
 .container3 {
-  background: url("../img/twitter.png");
+  background: url("../img/moodle.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -257,7 +258,7 @@ container4
 }
 
 .container4 {
-  background: url("../img/instagram.png");
+  background: url("../img/moodle.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -337,7 +338,7 @@ container5
 }
 
 .container5 {
-  background: url("../img/youtube.png");
+  background: url("../img/wordpress.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -417,7 +418,7 @@ container6
 }
 
 .container6 {
-  background: url("../img/naver.png");
+  background: url("../img/myedbc.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -497,7 +498,7 @@ container7
 }
 
 .container7 {
-  background: url("../img/daum.png");
+  background: url("../img/ebsco.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
